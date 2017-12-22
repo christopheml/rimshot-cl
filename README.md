@@ -1,0 +1,2 @@
+Usage:
+  ./rimshot.sh
